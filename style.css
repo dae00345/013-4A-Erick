@@ -84,6 +84,7 @@ header h1{
     animation-duration: 0.4s;
     animation-fill-mode: forwards;
     opacity: 60%;
+    outline:none;
 }
 .btn:active{
     background-color: white;
