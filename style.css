@@ -77,6 +77,7 @@ header h1{
     background-color:#b5b5b5;
     text-shadow:0px 1px 0px #ffffff;
     border:1px solid #bfbfbf;
+    outline:none;
 }
 .btn:hover{
     animation-name: btn-anim;
