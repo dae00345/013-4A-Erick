@@ -118,11 +118,6 @@ header h1{
 
 /* responsive background */
 /* Tablet */
-@media screen and (max-width: 2400px) {
-    .container{
-        width: 85%;    
-    }
-}
 @media screen and (max-width: 1024px) {
     .container{
         width: 60%;    
